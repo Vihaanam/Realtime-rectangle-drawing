@@ -1,0 +1,25 @@
+.header_div {
+    padding: 10px;
+    border-radius: 20px;
+}
+.note {
+    font-size: 20px !important;
+}
+#footer {
+    background-color: rgba(120, 120, 120, 0.5);
+    padding: 10px;
+    border-radius: 20px;
+    position: fixed;
+    bottom: 10px;
+    margin-left: 10px;
+    width: fit-content;
+    color: white;
+    font-size: 19px;
+}
+canvas {
+    border: 2px black solid;
+    border-radius: 20px;
+}
+body {
+    height: 600px;
+}
